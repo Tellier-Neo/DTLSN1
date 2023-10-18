@@ -14,6 +14,13 @@
     margin-bottom: 0px;
 }
 
+footer {
+    height: 100px;
+    width: 590px;
+    text-align: center;
+    font-size: small;
+    background-color: rgb(189, 183, 107);
+}
 
 .conteneur {
     display: flex;
@@ -23,7 +30,10 @@
 .divblue {
     width: 296px;
     height: 156px;
-    background-color: rgb(red, green, blue);
+    background-color: rgb(38, 119, 165);
+    text-align: center;
+    font-size: 14.1px;
+    font-weight: 500;
 }
 
 .divgreen {
@@ -33,4 +43,17 @@
     text-align: center;
     padding-left: 10px;
     padding-right: 10px;
+    font-size: 14.1px;
+    font-weight: 500;
+}
+
+.image_1 {
+    height: 136px;
+    width: 136px;
+}
+
+.paragraphe {
+    padding-right: 15px;
+    font-size: 14.1px;
+    font-weight: 500;
 }
