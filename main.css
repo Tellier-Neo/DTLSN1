@@ -38,11 +38,9 @@ footer {
 
 .divgreen {
     width: 296px;
-    height: 130px;
+    height: 133px;
     background-color: rgb(71, 225, 135);
     text-align: center;
-    padding-left: 10px;
-    padding-right: 10px;
     font-size: 14.1px;
     font-weight: 500;
 }
@@ -55,6 +53,26 @@ footer {
 .paragraphe {
     padding-right: 15px;
     font-size: 14.1px;
+    font-weight: 540;
+    font-family:'Times New Roman', Times, serif
+}
+
+.tableau {
+    border-width: 1px;
+    border-style:solid;
+    border-color: rgba(151, 218, 179, 1);
+}
+
+.parag_vert {
+    margin: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.cell {
+    font-size: 14.5px;
+    padding: 10px;
     font-weight: 500;
-    font-family:
+    font-style:normal;
+    font-family: 'Times New Roman';
 }
